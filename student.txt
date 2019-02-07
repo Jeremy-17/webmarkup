@@ -1,0 +1,5 @@
+Student name: Jamal Arnhem
+
+Student number: 642432
+
+Student class: INF1F-B
